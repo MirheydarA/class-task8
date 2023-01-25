@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\class.task\bin\Debug\net6.0\class.task.exe
+C:\Users\ASUS\source\repos\class.task\bin\Debug\net6.0\class.task.deps.json
+C:\Users\ASUS\source\repos\class.task\bin\Debug\net6.0\class.task.runtimeconfig.json
+C:\Users\ASUS\source\repos\class.task\bin\Debug\net6.0\class.task.dll
+C:\Users\ASUS\source\repos\class.task\bin\Debug\net6.0\class.task.pdb
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.dll
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\refint\class.task.dll
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.pdb
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\class.task.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\class.task\obj\Debug\net6.0\ref\class.task.dll
